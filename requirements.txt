@@ -1,0 +1,5 @@
+exifread
+Pillow
+piexif
+opencv-python
+json
